@@ -72,7 +72,6 @@ The objective is to revise Java fundamentals and understand how different concep
 CoreJava/
 │
 ├── CoreJavaComplete.java
-├── demo.txt
 └── README.md
 ```
 
