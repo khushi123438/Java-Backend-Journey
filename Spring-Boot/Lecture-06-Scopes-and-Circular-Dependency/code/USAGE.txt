@@ -1,0 +1,1 @@
+Requires Spring Boot dependencies. Keep CircularDependencyExample out of the component scan when running ScopeRunner, otherwise startup intentionally fails.

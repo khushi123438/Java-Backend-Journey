@@ -1,0 +1,1 @@
+Requires a Spring Boot project with spring-boot-starter and component scanning for com.example.beans.

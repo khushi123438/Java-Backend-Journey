@@ -1,0 +1,23 @@
+Typical request flow:
+
+Client / Browser
+      |
+      v
+Embedded Server (Tomcat)
+      |
+      v
+DispatcherServlet
+      |
+      v
+Controller
+      |
+      v
+Service
+      |
+      v
+Repository
+      |
+      v
+Database
+
+Spring Boot starts and configures the application context. Spring manages configured beans inside that context.

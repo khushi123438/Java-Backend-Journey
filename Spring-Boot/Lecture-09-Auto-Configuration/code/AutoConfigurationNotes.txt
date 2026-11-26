@@ -1,0 +1,5 @@
+To inspect auto-configuration decisions while running the app, add this property:
+
+debug=true
+
+Spring Boot prints a condition evaluation report to the application log.

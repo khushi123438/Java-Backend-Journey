@@ -1,0 +1,1 @@
+Place application.properties in src/main/resources and Java files under the scanned package in a Spring Boot project.
